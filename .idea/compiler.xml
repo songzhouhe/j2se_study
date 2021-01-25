@@ -9,8 +9,8 @@
         <module name="j2se_algorithm" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="j2se_algorithm" target="1.5" />
+    <bytecodeTargetLevel target="11">
+      <module name="j2se_algorithm" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
