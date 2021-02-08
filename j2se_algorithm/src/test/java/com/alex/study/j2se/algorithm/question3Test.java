@@ -1,7 +1,6 @@
 package com.alex.study.j2se.algorithm;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.Scanner;
 
 public class question3Test {
